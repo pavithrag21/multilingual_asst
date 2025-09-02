@@ -1,0 +1,5 @@
+streamlit
+mtranslate
+pandas
+gTTS
+openpyxl
